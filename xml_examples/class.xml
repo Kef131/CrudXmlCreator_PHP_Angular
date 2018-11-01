@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class name="Student">
+    <attributes>
+		<attribute id="1" type="string">Name</attribute>
+		<attribute id="2" type="string">Surname</attribute>
+        <attribute id="3" type="number" >Semester</attribute>
+        <attribute id="3" type="number" lenght="9">Enrolment</attribute>
+        <attribute id="4" type="number" lenght="9"  >GPA</attribute>
+		<attribute id="3" type="string" lenght="15" deafult="Active" >Status</attribute>
+    </attributes>
+    <functions>
+        <function id="" type="" description="">
+			<name>Add_User</name>
+			<parameters>
+				<parameter type="string">Name</parameter>
+				<parameter type="string">Surname</parameter>
+				<parameter type="string">GPA</parameter>					
+			</parameters>
+        </function>
+        <function id="" parameters="" type="">
+			<name>functiona1</name>
+			<parametersEntry>
+				<parameter></parameter>
+			</parametersEntry>
+			<parameterReturn type="string"></parameterReturn>
+        </function>
+		<function id="" type="" descripcion="">
+			<name></name>
+		</function>
+    </functions>
+</class>

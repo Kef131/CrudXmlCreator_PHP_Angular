@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class name="COCACOLA">
+    <attributes>
+		<attribute id="1" type="string" lenght="200">Name</attribute>
+		<attribute id="2" type="string" lenght="200">Surname</attribute>
+        <attribute id="3" type="number" lenght="5">IDBadge</attribute>
+        <attribute id="4" type="string" lenght="20">CURP</attribute>
+        <attribute id="5" type="number" lenght="5"  >Salary</attribute>
+        <attribute id="6" type="string" >Address</attribute>
+		<attribute id="7" type="string" lenght="50" default="Approved" >Security_Benefits</attribute>
+    </attributes>
+     <functions>
+        <function id="" type="" description="">
+			<name>Create Employ</name>
+			<parameters>
+				<parameter type="string">Name</parameter>
+				<parameter type="string">Surname</parameter>
+				<parameter type="string">ID</parameter>				
+			</parameters>
+        </function>
+    </functions>
+</class>

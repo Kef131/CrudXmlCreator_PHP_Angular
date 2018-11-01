@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class name="Lobos_FC">
+    <attributes>
+		<attribute id="1" type="string" lenght="200">Name</attribute>
+		<attribute id="2" type="string" lenght="200">Surname</attribute>
+        <attribute id="3" type="string" lenght="300">Nickname</attribute>
+        <attribute id="4" type="string" lenght="20">Position</attribute>
+        <attribute id="5" type="number" lenght="3">Number_Team</attribute>
+        <attribute id="6" type="number" lenght="5"  >Rank_League</attribute>
+		<attribute id="7" type="string" >Description</attribute>
+    </attributes>
+     <functions>
+        <function id="" type="" description="">
+			<name>Add_User</name>
+			<parameters>
+				<parameter type="string">Name</parameter>
+				<parameter type="string">Surname</parameter>
+				<parameter type="string">GPA</parameter>				
+			</parameters>
+        </function>
+        <function id="" parameters="" type="">
+			<name>functiona1</name>
+			<parametersEntry>
+				<parameter></parameter>
+			</parametersEntry>
+			<parameterReturn type="string"></parameterReturn>
+        </function>
+		<function id="" type="" descripcion="">
+			<name></name>
+		</function>
+    </functions>
+</class>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class name="Student">
+    <attributes>
+		<attribute id="1" type="string" lenght="200">Name</attribute>
+		<attribute id="2" type="string">Surname</attribute>
+        <attribute id="3" type="number" lenght="9">Enrolment</attribute>
+        <attribute id="4" type="number" lenght="9"  >GPA</attribute>
+		<attribute id="5" type="string" lenght="130" default="Active" >Status</attribute>
+    </attributes>
+</class>
